@@ -20,7 +20,7 @@ limitations under the License.
 
 # incrmpcorrdist
 
-[![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] [![dependencies][dependencies-image]][dependencies-url]
+[![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] <!-- [![dependencies][dependencies-image]][dependencies-url] -->
 
 > Compute a moving [sample Pearson product-moment correlation distance][pearson-correlation] incrementally.
 
@@ -161,8 +161,8 @@ console.log( accumulator() );
 
 ## See Also
 
--   [`@stdlib/stats/incr/mpcorr`][@stdlib/stats/incr/mpcorr]: compute a moving sample Pearson product-moment correlation coefficient incrementally.
--   [`@stdlib/stats/incr/pcorrdist`][@stdlib/stats/incr/pcorrdist]: compute a sample Pearson product-moment correlation distance.
+-   <span class="package-name">[`@stdlib/stats/incr/mpcorr`][@stdlib/stats/incr/mpcorr]</span><span class="delimiter">: </span><span class="description">compute a moving sample Pearson product-moment correlation coefficient incrementally.</span>
+-   <span class="package-name">[`@stdlib/stats/incr/pcorrdist`][@stdlib/stats/incr/pcorrdist]</span><span class="delimiter">: </span><span class="description">compute a sample Pearson product-moment correlation distance.</span>
 
 </section>
 
@@ -213,8 +213,12 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/stats-incr-mpcorrdist/main.svg
 [coverage-url]: https://codecov.io/github/stdlib-js/stats-incr-mpcorrdist?branch=main
 
+<!--
+
 [dependencies-image]: https://img.shields.io/david/stdlib-js/stats-incr-mpcorrdist.svg
 [dependencies-url]: https://david-dm.org/stdlib-js/stats-incr-mpcorrdist/main
+
+-->
 
 [chat-image]: https://img.shields.io/gitter/room/stdlib-js/stdlib.svg
 [chat-url]: https://gitter.im/stdlib-js/stdlib/
