@@ -65,6 +65,11 @@ where `r` is the [sample Pearson product-moment correlation coefficient][pearson
 ## Usage
 
 ```javascript
+import incrmpcorrdist from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-incr-mpcorrdist@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/stats-incr-mpcorrdist/tags). For example,
+
+```javascript
 import incrmpcorrdist from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-incr-mpcorrdist@v0.2.1-esm/index.mjs';
 ```
 
@@ -142,7 +147,7 @@ r = accumulator();
 <script type="module">
 
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@esm/index.mjs';
-import incrmpcorrdist from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-incr-mpcorrdist@v0.2.1-esm/index.mjs';
+import incrmpcorrdist from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-incr-mpcorrdist@esm/index.mjs';
 
 var accumulator;
 var x;
