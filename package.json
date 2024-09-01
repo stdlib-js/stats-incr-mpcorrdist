@@ -41,7 +41,7 @@
     "@stdlib/assert-is-positive-integer": "^0.2.2",
     "@stdlib/stats-incr-mpcorr": "^0.2.2",
     "@stdlib/string-format": "^0.2.2",
-    "@stdlib/types": "^0.3.2",
+    "@stdlib/types": "^0.4.1",
     "@stdlib/error-tools-fmtprodmsg": "^0.2.2"
   },
   "devDependencies": {
