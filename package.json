@@ -40,7 +40,7 @@
     "@stdlib/assert-is-number": "^0.2.2",
     "@stdlib/assert-is-positive-integer": "^0.2.2",
     "@stdlib/stats-incr-mpcorr": "^0.2.2",
-    "@stdlib/string-format": "^0.2.2",
+    "@stdlib/error-tools-fmtprodmsg": "^0.2.2",
     "@stdlib/types": "^0.4.3",
     "@stdlib/error-tools-fmtprodmsg": "^0.2.2"
   },
