@@ -18,7 +18,7 @@
 
 // TypeScript Version: 4.1
 
-/// <reference types="@stdlib/types"/>
+/// <reference types="https://cdn.jsdelivr.net/gh/stdlib-js/types@main/index.d.ts"/>
 
 /**
 * If provided input values, the accumulator function returns an updated moving sample correlation distance. If not provided input values, the accumulator function returns the current moving sample correlation distance.
